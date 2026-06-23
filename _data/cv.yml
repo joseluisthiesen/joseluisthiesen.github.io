@@ -1,7 +1,9 @@
 cv:
   name: José Luís Medeiros Thiesen
+  label: Associate Professor of Mechanical Engineering
   email: jose.thiesen@ufsc.br
   location: Florianópolis, SC, Brazil
+  summary: Associate Professor in the Department of Mechanical Engineering at the Federal University of Santa Catarina (UFSC). Research in computational solid mechanics and biomechanics, with focus on multiscale methods, poromechanics under large deformations, and the mechanical behavior of soft biological tissues and composite materials.
 
   social_networks:
     - network: LinkedIn
@@ -25,7 +27,7 @@ cv:
         location: Florianópolis, SC, Brazil
         url: https://emc.ufsc.br/
         area: Mechanical Engineering
-        degree: Ph.D.
+        studyType: Ph.D.
         start_date: 2022
         end_date: 2026
         highlights:
@@ -36,7 +38,7 @@ cv:
         location: Graz, Austria
         url: https://www.tugraz.at/home
         area: Biomedical Engineering
-        degree: Visiting Ph.D. Student
+        studyType: Visiting Ph.D. Student
         start_date: 2023
         end_date: 2024
         highlights:
@@ -46,7 +48,7 @@ cv:
         location: Florianópolis, SC, Brazil
         url: https://emc.ufsc.br/
         area: Mechanical Engineering
-        degree: M.Sc.
+        studyType: M.Sc.
         start_date: 2019
         end_date: 2021
         highlights:
@@ -57,40 +59,39 @@ cv:
         location: Joinville, SC, Brazil
         url: https://www.udesc.br/cct
         area: Mechanical Engineering
-        degree: B.Sc.
+        studyType: B.Sc.
         start_date: 2014
         end_date: 2019
         highlights:
           - "Thesis: Numerical modelling to determine the effective properties of smart composite materials considering imperfect contact"
 
     Awards:
-      - name: Best Graduate Student Paper Award
+      - title: Best Graduate Student Paper Award
         date: 2024
-        highlights:
-          - "Awarded by the Brazilian Society of Mechanical Sciences and Engineering"
-          - "9th International Symposium on Solid Mechanics, Brazil"
+        awarder: Brazilian Society of Mechanical Sciences and Engineering
+        summary: 9th International Symposium on Solid Mechanics, Brazil
 
-      - name: Ernst Macht Worldwide Scholarship
+      - title: Ernst Macht Worldwide Scholarship
         date: 2023
-        highlights:
-          - "Awarded by the Ernst Macht Foundation, Austria"
+        awarder: Ernst Macht Foundation
+        summary: Austria
 
-      - name: Ph.D. Scholarship
+      - title: Ph.D. Scholarship
         date: 2022
-        highlights:
-          - "Awarded by CAPES (Coordination for the Improvement of Higher Education Personnel), Brazil"
+        awarder: CAPES — Coordination for the Improvement of Higher Education Personnel
+        summary: Brazil
 
-      - name: M.Sc. Scholarship
+      - title: M.Sc. Scholarship
         date: 2019
-        highlights:
-          - "Awarded by CAPES (Coordination for the Improvement of Higher Education Personnel), Brazil"
+        awarder: CAPES — Coordination for the Improvement of Higher Education Personnel
+        summary: Brazil
 
     Languages:
-      - label: Portuguese
-        details: Native speaker
+      - name: Portuguese
+        summary: "Native speaker"
 
-      - label: English
-        details: Fluent
+      - name: English
+        summary: "Fluent"
 
-      - label: Spanish
-        details: Intermediate
+      - name: Spanish
+        summary: "Intermediate"
