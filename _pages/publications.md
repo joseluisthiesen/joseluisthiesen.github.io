@@ -13,11 +13,11 @@ nav_order: 2
 
 <div class="publications">
 
-## Journal Articles
+<h2 class="bibliography">Journal Articles</h2>
 
 {% bibliography --query @article %}
 
-## Conference Proceedings
+<h2 class="bibliography">Conference Proceedings</h2>
 
 {% bibliography --query @inproceedings %}
 

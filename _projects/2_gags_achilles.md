@@ -4,7 +4,7 @@ title: GAGs and Achilles Tendon Pathologies
 description: Poroelastic modeling of glycosaminoglycan accumulation and elevated intratissue pressure in tendinopathy.
 img: assets/img/projects/achilles_tendon.png
 importance: 2
-category: Biological Tissue Biomechanics
+category: Computational Biomechanics
 ---
 
 <div style="max-width:55%; margin:0 auto 1.5rem;">

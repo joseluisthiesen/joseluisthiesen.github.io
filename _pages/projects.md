@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [Biological Tissue Biomechanics, Orthopedic Biomechanics]
+display_categories: [Computational Biomechanics, Orthopedic Biomechanics]
 horizontal: false
 ---
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, <a href='https://emc.ufsc.br/'>Dept. of Mechanical Engineering</a>, UFSC — Florianópolis, Brazil
+subtitle: Associate Professor, Dept. of Mechanical Engineering</a>, UFSC — Florianópolis, Brazil
 
 profile:
   align: right
@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in the [Department of Mechanical Engineering](https://emc.ufsc.br/) at the Federal University of Santa Catarina (UFSC), Florianópolis, Brazil. My research lies at the interface of **computational solid mechanics** and **biomechanics**, with a focus on multiscale methods, poromechanics under large deformations, and the mechanical behavior of soft biological tissues and composite materials.
+I am an Associate Professor in the [Department of Mechanical Engineering](https://emc.ufsc.br/) at the [Federal University of Santa Catarina (UFSC)](https://en.ufsc.br/), Florianópolis, Brazil. My research lies at the interface of **computational solid mechanics** and **biomechanics**, with a focus on multiscale methods, poromechanics under large deformations, and the mechanical behavior of soft biological tissues and composite materials.
 
 I am currently affiliated with the [GRANTE](https://grante.ufsc.br/) and [LEBm](https://lebm-hu.paginas.ufsc.br/) research groups at UFSC, where I collaborate on projects involving finite element modeling, constitutive modeling, and orthopedic biomechanics.
 

@@ -4,7 +4,7 @@ title: GAGs and Aortic Dissection
 description: Multiscale poroelastic modeling of glycosaminoglycan-induced osmotic swelling and delamination risk in the aortic wall.
 img: assets/img/projects/aorta_microstructure.jpg
 importance: 1
-category: Biological Tissue Biomechanics
+category: Computational Biomechanics
 ---
 
 <div style="max-width:55%; margin:0 auto 1.5rem;">

@@ -4,7 +4,7 @@ title: Multiscale Modeling of Micropolar Media
 description: Computational homogenization framework bridging Cauchy microstructures to Micropolar (Cosserat) macroscale continua, with application to bone tissue.
 img: assets/img/projects/bone_histology.jpg
 importance: 4
-category: Biological Tissue Biomechanics
+category: Computational Biomechanics
 ---
 
 <div style="max-width:55%; margin:0 auto 1.5rem;">

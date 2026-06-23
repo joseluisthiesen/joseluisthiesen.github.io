@@ -4,7 +4,7 @@ title: Multiscale Triphasic Modeling and Ion Transport
 description: Second-order computational homogenization for triphasic (solid–fluid–ions) porous media under large deformations.
 img: assets/img/projects/gag_proteoglycan_structure.jpg
 importance: 3
-category: Biological Tissue Biomechanics
+category: Computational Biomechanics
 ---
 
 <div style="max-width:55%; margin:0 auto 1.5rem;">
