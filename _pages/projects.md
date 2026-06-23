@@ -5,9 +5,17 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Biological Tissue Biomechanics, Orthopedic Biomechanics]
 horizontal: false
 ---
+
+<style>
+  .projects .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">

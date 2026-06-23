@@ -341,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Thiesen]
+  first_name: [José Luís, J. L., J. L. M.]
 
   style: apa
   locale: en
