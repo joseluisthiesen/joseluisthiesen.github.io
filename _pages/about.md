@@ -9,7 +9,7 @@ profile:
   image: my_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office N. 01 (Building A1)</p>
+    <p>GRANTE, Office N. 01 (Building A1)</p>
     <p>Campus Universitário Reitor João David Ferreira Lima – Trindade, 88035-972</p>
     <p>Florianópolis - SC</p>
     <p>Brazil</p>
