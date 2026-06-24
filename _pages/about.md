@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>GRANTE, Office N. 01 (Building A1)</p>
     <p>Campus Universitário Reitor João David Ferreira Lima – Trindade, 88035-972</p>
-    <p>Florianópolis - SC</p>
-    <p>Brazil</p>
+    <p>Florianópolis - SC, Brazil</p>
+    <p>📧 <a href="mailto:jose.thiesen@ufsc.br">jose.thiesen@ufsc.br</a></p>
+    <p>📞 (+55) 048 99806-7107</p>
     <p><img src="/assets/img/Mapa_EMC.png" alt="Department map" style="width:100%; margin-top:8px;" data-zoomable/></p>
     <p style="font-size:0.8em; color:#888;">Department of Mechanical Engineering — campus map</p>
 
@@ -30,10 +31,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in the [Department of Mechanical Engineering](https://emc.ufsc.br/) at the [Federal University of Santa Catarina (UFSC)](https://en.ufsc.br/), Florianópolis, Brazil. My research lies at the interface of **computational solid mechanics** and **biomechanics**, with a focus on multiscale methods, poromechanics under large deformations, and the mechanical behavior of soft biological tissues and composite materials.
+I am an Associate Professor in the [Department of Mechanical Engineering](https://emc.ufsc.br/) at the [Federal University of Santa Catarina (UFSC)](https://en.ufsc.br/) — ranked among the **top 3.5% of universities worldwide** (CWUR 2026) —, Florianópolis, Brazil. My research lies at the interface of **computational solid mechanics** and **biomechanics**, with a focus on multiscale methods, poromechanics under large deformations, and the mechanical behavior of soft biological tissues and composite materials.
 
 I am currently affiliated with the [GRANTE](https://grante.ufsc.br/) and [LEBm](https://lebm-hu.paginas.ufsc.br/) research groups at UFSC, where I collaborate on projects involving finite element modeling, constitutive modeling, and orthopedic biomechanics.
 
 I am in the process of building my own research group and am actively looking for motivated **undergraduate, M.Sc., and Ph.D. students** interested in computational mechanics and biomechanics. Feel free to reach out if you are interested in joining.
+
 
 
